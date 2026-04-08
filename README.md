@@ -1,1 +1,2 @@
 # SLIMS.cpp
+An application designed to help students manage, track, and categorize their lifestyle, responsibilites and important aspects of independent living. The data structure used in this project are: Map - to categorize expense data by type alongside their corresponding amounts, also to track and summarize the total study time per subject during review sessions. Vector - Used to store task entries, such as household chores and study tasks.
