@@ -204,7 +204,7 @@ void exam_timer() {
             
             seconds--;
         }
-        
+    }    
         for (int i = 0; i < 3; i++) {
             Beep(1000, 500); 
         
